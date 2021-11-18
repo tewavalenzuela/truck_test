@@ -1,1 +1,4 @@
-# truck_test
+# truck_test 
+MySQL is a free, open source Relational Database Management System (RDBMS) that uses structured query language(SQL). In a MySQL database, information is stored in Tables. A single MySQL database can contain many tables at ones and store thousands of individual records. 
+# 
+In truck_test mini project I performed some basic DDL queries like CREATE, DROP and ALTER with Python. Also I created all the tables required for the train_it_mysql database  which contains truck, supplier, truck_part, works_with, orders and company_supplier and some tables modifications. (These six tables completely sufficed for the purpose of this project). Along the way, i was trying to show some programming practices that are worth considering when it comes to establishing a connection, creating tables, and inserting, updating records in a database application. I also developed a sample MySQL database for a truck brands system and interacted with it directly from Python application.
